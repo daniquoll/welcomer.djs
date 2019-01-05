@@ -1,0 +1,19 @@
+{
+  "name": "welcomer.djs",
+  "version": "1.0.0",
+  "description": "Приветсвие новых участников на сервере.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blastyourstuff/welcomer.djs.git"
+  },
+  "author": "Daniyar Kurmangaliiev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blastyourstuff/welcomer.djs/issues"
+  },
+  "homepage": "https://github.com/blastyourstuff/welcomer.djs#readme"
+}
