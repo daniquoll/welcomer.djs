@@ -1,0 +1,19 @@
+{
+    "token": "токен_бота",
+    "greeting": {
+        "to_dm": false,
+        "channel_id": "id_канала",
+        "message": "{@user}, добро пожаловать на {guild}!"
+    },
+    "farewell": {
+        "to_dm": false,
+        "channel_id": "id_канала",
+        "message": "{user_tag} покинул {guild}! Очень жаль..."
+    },
+    "presence": {
+        "game_name": "Discord",
+        "type": 0,
+        "status": "online",
+        "game_url": "https://www.twitch.tv/blastyourstuff"
+    }
+}

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/blastyourstuff/welcomer.djs/issues"
   },
-  "homepage": "https://github.com/blastyourstuff/welcomer.djs#readme"
+  "homepage": "https://github.com/blastyourstuff/welcomer.djs#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
 }
